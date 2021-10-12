@@ -4,6 +4,7 @@ function _init()
 end
 
 function _update()
+	move_player()
 end
 
 function _draw()
